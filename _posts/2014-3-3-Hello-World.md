@@ -6,8 +6,9 @@ published: true
 
 This website will ultimately provide a comprehensive workflow for functional genomic analyses with relevance neuropsychiatric disease. The goal is to identify the biological & molecular pathways that contribute to highly heritable disorders, such as schizophrenia or autism spectrum disroders (ASD). The general principles were outlined in two recent reviews:
 
--[Gandal MJ., et al. "The road to precision psychiatry: translating genetics into disease mechanisms" *Nature Neuroscience* **19**, 1397–1407 (2016) doi:10.1038/nn.4409](http://www.nature.com/neuro/journal/v19/n11/full/nn.4409.html) and 
--[Parikshak NN, Gandal MJ, and Geschwind "Systems biology and gene networks in neurodevelopmental and neurodegenerative disorders" *Nature Reviews Genetics* **16**, 441–458 (2015) doi:10.1038/nrg3934](http://www.nature.com/nrg/journal/v16/n8/full/nrg3934.html). 
+- [Gandal MJ., et al. "The road to precision psychiatry: translating genetics into disease mechanisms" *Nature Neuroscience* **19**, 1397–1407 (2016) doi:10.1038/nn.4409](http://www.nature.com/neuro/journal/v19/n11/full/nn.4409.html) and 
+- [Parikshak NN, Gandal MJ, and Geschwind "Systems biology and gene networks in neurodevelopmental and neurodegenerative disorders" *Nature Reviews Genetics* **16**, 441–458 (2015) doi:10.1038/nrg3934](http://www.nature.com/nrg/journal/v16/n8/full/nrg3934.html). 
+
 Two fundamental approaches can be taken when trying to unravel the genetic underpinning of psychiatric disorders. The classic "Forward Genetic Approach" can be used to understand the contribution & biological impact of a single disease-associated genetic variant or locus.
 
 
