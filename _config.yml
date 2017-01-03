@@ -2,6 +2,16 @@
 # This file contains configuration flags to customize your site
 #
 
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+paginate:         5
+
 # Name of your site (displayed in the header)
 name: Precision Psychiatry
 
